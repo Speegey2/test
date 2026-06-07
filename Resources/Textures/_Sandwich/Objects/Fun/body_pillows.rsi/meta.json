@@ -8,6 +8,8 @@
   },
     "states": [
         { "name": "pillow_body_niaresa_back" },
-        { "name": "pillow_body_niaresa_front" }
+        { "name": "pillow_body_niaresa_front" },
+        { "name": "pillow_body_deroh_back" },
+        { "name": "pillow_body_deroh_front" }
     ]
 }
